@@ -1,0 +1,5 @@
+com/webflux/PokedexDio/model/PokemonEvent.class
+com/webflux/PokedexDio/PokedexDioApplication.class
+com/webflux/PokedexDio/model/Pokemon.class
+com/webflux/PokedexDio/controller/PokemonController.class
+com/webflux/PokedexDio/repository/ReactiveWebApplication.class
